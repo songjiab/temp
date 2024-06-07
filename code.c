@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("test code\n");
+	printf("我跑\n");
 	return 0;
 }
